@@ -1,0 +1,5 @@
+torch
+torchvision
+face-alignment
+imageio
+scipy
