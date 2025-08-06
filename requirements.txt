@@ -1,5 +1,4 @@
 streamlit
-face_alignment
-torch
 numpy
 Pillow
+mediapipe
