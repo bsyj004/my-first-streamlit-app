@@ -3,3 +3,6 @@ torchvision
 face-alignment
 imageio
 scipy
+LandmarksType
+NetworkSize
+cv2
