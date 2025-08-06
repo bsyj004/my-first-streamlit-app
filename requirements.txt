@@ -1,8 +1,5 @@
+streamlit
+face_alignment
 torch
-torchvision
-face-alignment
-imageio
-scipy
-LandmarksType
-NetworkSize
-cv2
+numpy
+Pillow
